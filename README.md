@@ -1,6 +1,6 @@
 # Excel-Bike-Sales-Dashboard
 Project Overview :
-I created a Microsoft Excel Project by using the dataset of Alex the Analyst and created a Dashboard with bussiness insights and Formulas.
+I created a Microsoft Excel Guided Project by using the dataset of Alex the Analyst and created a Dashboard with bussiness insights and Formulas.
 
 Data Set Link:
 https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
